@@ -17,7 +17,7 @@ class Calculator extends StatelessWidget {
           title: const Text(
             'Calculator',
             style: TextStyle(
-              fontSize: 32,
+              fontSize: 30,
             ),
           ),
         ),
